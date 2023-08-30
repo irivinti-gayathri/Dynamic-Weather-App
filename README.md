@@ -1,2 +1,2 @@
 # Dynamic-Weather-App
-Creating an dynamic weather app using node js
+A dynamic weather app using Node.js typically allows users to get real-time weather information for a specified location
